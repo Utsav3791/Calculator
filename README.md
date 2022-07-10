@@ -1,2 +1,2 @@
 # Calculator
-Calculator created in NetBeans IDE 13
+Both Version (Simple and Scientific)
