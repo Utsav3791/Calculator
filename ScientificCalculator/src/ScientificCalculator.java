@@ -503,7 +503,6 @@ public class ScientificCalculator {
                 double a=Double.parseDouble(String.valueOf(textField.getText()));
                 a=a*(-1);
                 textField.setText(String.valueOf(a));
-
             }
         });
         button.setFont(new Font("Tahoma", Font.PLAIN, 18));
