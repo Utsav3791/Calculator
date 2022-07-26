@@ -32,4 +32,4 @@ git clone https://github.com/Utsav3791/Calculator.git
 
 ### Feel free to add any improvements in code for implementing better new ideas. Suggestions are most welcome. :relaxed::raised_hands:
 
-**If you like the repo, then :star2: to the repo would be _Fantastic_.**
+### **If you like the repo, then :star2: to the repo would be _Fantastic_.**
